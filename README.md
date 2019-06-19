@@ -3,10 +3,12 @@ tanpa lisensi
 
 v1.6 <br>
 
-pkg install python2<br>
-pkg install git<Br>
-git clone https://github.com/ZeDDParker/dark-fb<Br>
-cd dark-fb<br>
-python2 install.py<br>
-<br>
-<img src="https://raw.githubusercontent.com/rezadkim/dark-fb/master/Screenshot_2019-05-08-19-47-56.png">
+$ pkg update && pkg upgrade 
+ $ pkg install curl git python2 
+$pkg install git
+$pkg install python2
+$git clone https://github.com/BADRU-Syaputra/dark-fb
+$cd dark-fb
+$ pip2 install mechanizepip2
+ $pip2 install requests 
+$python2 Darkfbv.py 
